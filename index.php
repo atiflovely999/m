@@ -4,6 +4,7 @@
 <meta charset="utf-8"/>
 </head>
 <body>
+  <center>
 <div id="hedar">
 <p><h2>بسم الله الرحمن الرحيم </p></h2>
 <p><h2> كلية الامارات للعلوم والتكنولوجيا</p></h2>
@@ -27,5 +28,6 @@
 <a href="1111.php">لتسجيل الدخول اضغط هنا </a>
 </ul>
 </li>
+</center>
 </body>
 </html>
