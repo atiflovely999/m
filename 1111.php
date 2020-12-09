@@ -27,7 +27,7 @@
 </tr>
 
 <tr>
-<td><a href="1.html">للحجزاضغط هنا </a></td>
+<td><a href="1.php">للحجزاضغط هنا </a></td>
 
 </tr>
 </center>
