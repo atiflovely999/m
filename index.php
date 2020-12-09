@@ -1,6 +1,6 @@
 ﻿<html>
 <head>
-<titel> name </titel>
+<titel>  </titel>
 <meta charset="utf-8"/>
 </head>
 <body>
