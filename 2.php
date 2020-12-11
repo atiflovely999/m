@@ -16,7 +16,7 @@
 <td>5000الفاشر</td><br>
 </tr>
 <tr>
-<td><a href="sing.html">للشراء اضغط هنا </a></td><br>
+<td><a href="sing.php">للشراء اضغط هنا </a></td><br>
 
 </tr>
 </center>
