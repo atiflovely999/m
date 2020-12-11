@@ -11,13 +11,13 @@
      <br>
      <center>
          <font color="brown"  size="15px">
-<a href="admin.php"><h1>الرجوع الى شاشه الدخول</h1></a>
+<a href="index.php"><h1>الرجوع الى شاشه الدخول</h1></a>
 </font>
 </center>
     <center>
  <font color="red "  size=20px>
 <h1>  بسم الله الرحمن الرحيم</h1>
-<h1> في هذه الصفحه يتحكم بالمكتبه</h1>
+
 <h1>ويوجد فيها التقاير وعدد الزوار  </h1>
 
     </center>
