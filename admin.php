@@ -1,7 +1,7 @@
 <center>
     <a href="index.php">الصفحه الرئيسيه</a>
     <h1>شاشه الدخول</h1>
-<img src="7.jpg"  width=300 beight=150>
+
 </center>
 <br>
 <br>
